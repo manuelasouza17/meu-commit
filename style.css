@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 900px;
+  height: 500px;
+  margin: 300px auto;
+  margin-right: 50px;
+  background: palevioletred;
+  box-shadow: black;
+  border-radius: 20px;
+
+}
+
+.imagem img {
+  border-radius: 50%;
+  position: relative;
+  width: 300px;
+  right: 0px;
+  top: 50px;
+}
+
+.nome {
+  top: 100px;
+  position: relative;
+  right: 15px;
+}
+
+.final {
+  top: 400px;
+  position: relative;
+  right: 755px;
+}
